@@ -19,7 +19,7 @@ const Hero = () => {
                         transition={{ delay: 0.2 }}
                         className="text-xl md:text-2xl text-white font-medium italic"
                     >
-                        Hey there I'm Joe 👋
+                
                     </motion.p>
                     <div className="inline-block px-4 py-1.5 text-sm font-medium tracking-wider text-cyan-300 uppercase glass rounded-full ring-1 ring-cyan-500/20">
                         Front-End Developer
