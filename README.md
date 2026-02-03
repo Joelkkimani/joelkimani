@@ -57,8 +57,4 @@ A premium, high-end portfolio website built with **React**, **Tailwind CSS**, an
 - `src/assets`: Images and static media
 - `src/App.jsx`: Main application wrapper with layouts
 
-## 📧 Contact
-
-**Joel Kimani** - [GitHub](https://github.com/Joelkkimani)
-
-Project Link: [https://github.com/Joelkkimani/Portfolio](https://github.com/joelkimani.vercel.app)
+##  Live demo => joelkimani.vercel.app
