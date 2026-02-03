@@ -63,7 +63,7 @@ const CV = () => {
 
                                 <div className="space-y-4">
                                     <a
-                                        href="https://app.enhancv.com/share/98254f41/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic"
+                                        href="https://drive.google.com/file/d/1GR2KUYzJzibeck9bHQtp6QpxttUkT_LC/view?usp=drive_link"
                                         target="_blank"
                                         rel="noopener noreferrer"
                                         className="flex items-center justify-between w-full p-4 sm:p-5 rounded-2xl bg-cyan-500/10 border border-cyan-500/20 text-white hover:bg-cyan-500/20 hover:border-cyan-500/40 transition-all group/btn"
@@ -73,8 +73,8 @@ const CV = () => {
                                                 <ExternalLink size={20} className="sm:w-6 sm:h-6" />
                                             </div>
                                             <div>
-                                                <span className="block font-bold text-sm sm:text-base">View Interactive CV</span>
-                                                <span className="text-[10px] sm:text-xs text-gray-400">Opens in new tab</span>
+                                                <span className="block font-bold text-sm sm:text-base">View Cv</span>
+                                                <span className="text-[10px] sm:text-xs text-gray-400">Opens in google drive</span>
                                             </div>
                                         </div>
                                         <div className="opacity-0 group-hover/btn:opacity-100 transform translate-x-[-10px] group-hover/btn:translate-x-0 transition-all">
