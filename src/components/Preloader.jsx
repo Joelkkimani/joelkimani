@@ -84,7 +84,7 @@ const Preloader = ({ onStart }) => {
                 >
                     <h1 className="text-3xl md:text-5xl font-bold text-white tracking-tight leading-tight">
                         <TypewriterText
-                            text="Hi, I'm Joe 👋,"
+                            text="Hi, I'm Joe 👋"
                             onComplete={() => setTimeout(() => setStep(1), 1500)}
                         />
                     </h1>
@@ -92,7 +92,7 @@ const Preloader = ({ onStart }) => {
                     {step >= 1 && (
                         <h2 className="text-xl md:text-3xl text-cyan-400 font-medium leading-tight">
                             <TypewriterText
-                                text="I'm a Front End Developer,"
+                                text="I'm a Front End Developer"
                                 onComplete={() => setTimeout(() => setStep(2), 1500)}
                             />
                         </h2>
